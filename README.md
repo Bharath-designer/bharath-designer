@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <p align=center>Hi there, I'm Bharath 👋</p>
+# <p align=center>Hi there <img src="wave.gif" width="40px" />, I'm Bharath</p>
 ## <p align=center>A passionate Full Stack (MERN Stack) Developer from India.</p>
 
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Are you looking for a web developer? You got me! Hey folks! I'm Bharath. I design and develop Web applications. Well adaptive person to grasp the concepts of new technology.
 
-<img align="right" width="450" src="https://github.com/zxcvbnmbnmbnm/zxcvbnmbnmbnm/raw/main/term-sheet-1674808624713.svg"/>
+<img align="right" width="450" src="terminal.svg"/>
 
 
  - 🏆 I'm actively showcasing my projects on  <a href="https://bharath-v-portfolio.web.app/project">Projects</a>
