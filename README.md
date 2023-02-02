@@ -21,11 +21,10 @@ Are you looking for a web developer? You got me! Hey folks! I'm Bharath. I desig
 
 <img align="right" width="450" src="terminal.svg"/>
 
-
- - 🏆 I'm actively showcasing my projects on  <a href="https://bharath-v-portfolio.web.app/project">Projects</a>
- - 🎯 I have a good understanding of **HTML, CSS and Javascript** as well as experience with **React**
- - 👨‍💻 Knowledge of **Nodejs, Express** for Backend and worked in **MongoDB** as well as **MySQL**
  - 📌 My Portfolio is available [here](https://bharath-v-portfolio.web.app) 
+ - 🎯 I have a good understanding of **HTML, CSS and Javascript** as well as experience with **React**
+- 🏆 I'm actively showcasing my projects on  <a href="https://bharath-v-portfolio.web.app/project">Projects</a>
+ - 👨‍💻 Knowledge of **Nodejs, Express** for Backend and worked in **MongoDB** as well as **MySQL**
 
 <br/>
 <br/>
