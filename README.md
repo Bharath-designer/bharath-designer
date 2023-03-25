@@ -5,14 +5,15 @@
 ## About Me 🌟
 <br/>
 
-Are you looking for a web developer? You got me! Hey folks! I'm Bharath. I design and develop Web applications. I'm familiar with React and Vanilla Javascript for developing front-end and I use NodeJs for back-end and MongoDB for Database. I'm an adaptive person to grasp the concepts of new technology.
+Are you looking for a web developer? You got me! Hey folks! I'm Bharath. I design and develop Web applications. I'm familiar with React and Vanilla Javascript for developing front-end and I use NodeJs for back-end and MongoDB for Database. I am enthusiastic about learning new technologies and staying up-to-date with the latest trends in web development. 
 
 <img align="right" width="450" src="terminal.svg"/>
 
- - 📌 My Portfolio is available [here](https://bharath-v-portfolio.web.app) 
- - 🎯 I have a good understanding of **HTML, CSS and Javascript** as well as experience with **React**
+- 📌 My Portfolio is available [here](https://bharath-v-portfolio.web.app) 
+- 👨‍💻 I'm skilled in both **front-end and back-end development**, and I have developed several full-stack web applications using the **MERN stack** and also used React with **firebase** in my projects.
+- 🎯 These projects involved developing applications from scratch using modern web technologies. I have worked on various aspects of these projects, such as **creating APIs, designing UIs, and deploying the full-stack application to production.**
 - 🏆 I'm actively showcasing my projects on  <a href="https://bharath-v-portfolio.web.app/project">Projects</a>
- - 👨‍💻 Knowledge of **Nodejs, Express** for Backend and worked in **MongoDB** as well as **MySQL**
+ 
 
 <br/>
 <br/>
